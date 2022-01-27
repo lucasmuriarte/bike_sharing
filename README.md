@@ -3,6 +3,10 @@
 Data Set Information:
 free public data set from https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
 
+
+<img src="./resources/figure_1_readme.jpg" >
+Figure reproduced from https://doi.org/10.1049/iet-its.2019.0796
+
 The porject consist on predicting the number of bikes rented per hour:
 
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. 
